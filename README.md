@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **My Projects**
 
-- ⚡ Fun fact **I am Creative, Curious & Adventure**
+- ⚡ Fun fact **I am Creative, Curious & Adventurous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
