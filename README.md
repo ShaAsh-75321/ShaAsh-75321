@@ -1,16 +1,18 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India	&#128681</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaash-75321&label=Profile%20views&color=0e75b6&style=flat" alt="shaash-75321" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Apps, Research & Patents**
+&#11088; 🔭 I’m currently working on **Apps, Research & Patents**
 
-- 💬 Ask me about **My Projects**
 
-- ⚡ Fun fact **I am Creative, Curious & Adventure**
+&#11088; 💬 Ask me about **My Projects**
+
+
+&#11088; ⚡ Fun fact **I am Creative, Curious & Adventure**
 
 ## 🌐 Connect With Me:
 <p align="left">
