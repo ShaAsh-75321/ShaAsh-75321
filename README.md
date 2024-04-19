@@ -39,8 +39,15 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ShaAsh-75321&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShaAsh-75321&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaAsh-75321&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: center;">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaash-75321&theme=highcontrast" alt="shaash-75321" /></p></div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div style="display: flex; justify-content: center;">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaash-75321&show_icons=true&locale=en&theme=highcontrast" alt="shaash-75321&" /></p></div>
+
+<div style="display: flex; justify-content: center;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaash-75321&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="shaash-75321" /></p></div>
+
+
+
